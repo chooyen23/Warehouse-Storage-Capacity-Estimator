@@ -54,7 +54,6 @@ st.write(
 
 # Add table of pallet sizes
 st.markdown("---")
-st.markdown("test")
 st.markdown("### Common Standard Pallet Sizes")
 st.write(
     "| Region/Standard         | Dimensions (mm)         | Dimensions (in)       | Notes                                |\n"
